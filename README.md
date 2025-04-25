@@ -10,87 +10,87 @@
 
 以下是制作一个 右二头肌所需的零件清单和打印数量：
 
-1x GearHolder
-
-2x HighArmSide
-
-1x Pistonanticlock
-
-1x Pistonbaseanti
-
-1x RotGear
-
-1x RotMit
-
-2x PivPotentio (圆形或方形)
-
-1x RotTit
-
-1x RotWorm
-
-1x Rotcenter
-
-1x armtopcover1
-
-1x armtopcover2
-
-1x armtopcover3
-
-1x elbowshaftgear
-
-1x gearpotentio
-
-2x lowarmside
-
-2x reinforcer
-
-1x servobase
-
-1x servoholder
-
-1x spacer
+  1x GearHolder
+  
+  2x HighArmSide
+  
+  1x Pistonanticlock
+  
+  1x Pistonbaseanti
+  
+  1x RotGear
+  
+  1x RotMit
+  
+  2x PivPotentio (圆形或方形)
+  
+  1x RotTit
+  
+  1x RotWorm
+  
+  1x Rotcenter
+  
+  1x armtopcover1
+  
+  1x armtopcover2
+  
+  1x armtopcover3
+  
+  1x elbowshaftgear
+  
+  1x gearpotentio
+  
+  2x lowarmside
+  
+  2x reinforcer
+  
+  1x servobase
+  
+  1x servoholder
+  
+  1x spacer
 
 以下是制作左二头肌所需的零件清单和打印数量：
 
-1x GearHolder
-
-2x HighArmSide
-
-1x Pistonanticlock
-
-1x Pistonbaseanti
-
-1x RotGear
-
-1x RotMit
-
-2x PivPotentio (圆形或方形)
-
-1x LeftRotTit
-
-1x RotWorm
-
-1x LeftRotcenter
-
-1x armtopcover1
-
-1x armtopcover2
-
-1x armtopcover3
-
-1x elbowshaftgear
-
-1x gearpotentio
-
-2x lowarmside
-
-2x reinforcer
-
-1x servobase
-
-1x servoholder
-
-1x spacer
+  1x GearHolder
+  
+  2x HighArmSide
+  
+  1x Pistonanticlock
+  
+  1x Pistonbaseanti
+  
+  1x RotGear
+  
+  1x RotMit
+  
+  2x PivPotentio (圆形或方形)
+  
+  1x LeftRotTit
+  
+  1x RotWorm
+  
+  1x LeftRotcenter
+  
+  1x armtopcover1
+  
+  1x armtopcover2
+  
+  1x armtopcover3
+  
+  1x elbowshaftgear
+  
+  1x gearpotentio
+  
+  2x lowarmside
+  
+  2x reinforcer
+  
+  1x servobase
+  
+  1x servoholder
+  
+  1x spacer
 
 二头肌教程视频：https://youtu.be/aHVBU02EtxY
 
