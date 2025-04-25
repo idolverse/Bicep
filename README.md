@@ -10,87 +10,87 @@
 
 以下是制作一个 右二头肌所需的零件清单和打印数量：
 
-1x GearHolder
-
-2x HighArmSide
-
-1x Pistonanticlock
-
-1x Pistonbaseanti
-
-1x RotGear
-
-1x RotMit
-
-2x PivPotentio (round or square)
-
-1x RotTit
-
-1x RotWorm
-
-1x Rotcenter
-
-1x armtopcover1
-
-1x armtopcover2
-
-1x armtopcover3
-
-1x elbowshaftgear
-
-1x gearpotentio
-
-2x lowarmside
-
-2x reinforcer
-
-1x servobase
-
-1x servoholder
-
-1x spacer
+  1x GearHolder
+  
+  2x HighArmSide
+  
+  1x Pistonanticlock
+  
+  1x Pistonbaseanti
+  
+  1x RotGear
+  
+  1x RotMit
+  
+  2x PivPotentio (圆形或方形)
+  
+  1x RotTit
+  
+  1x RotWorm
+  
+  1x Rotcenter
+  
+  1x armtopcover1
+  
+  1x armtopcover2
+  
+  1x armtopcover3
+  
+  1x elbowshaftgear
+  
+  1x gearpotentio
+  
+  2x lowarmside
+  
+  2x reinforcer
+  
+  1x servobase
+  
+  1x servoholder
+  
+  1x spacer
 
 以下是制作左二头肌所需的零件清单和打印数量：
 
-1x GearHolder
-
-2x HighArmSide
-
-1x Pistonanticlock
-
-1x Pistonbaseanti
-
-1x RotGear
-
-1x RotMit
-
-2x PivPotentio (round or square)
-
-1x LeftRotTit
-
-1x RotWorm
-
-1x LeftRotcenter
-
-1x armtopcover1
-
-1x armtopcover2
-
-1x armtopcover3
-
-1x elbowshaftgear
-
-1x gearpotentio
-
-2x lowarmside
-
-2x reinforcer
-
-1x servobase
-
-1x servoholder
-
-1x spacer
+  1x GearHolder
+  
+  2x HighArmSide
+  
+  1x Pistonanticlock
+  
+  1x Pistonbaseanti
+  
+  1x RotGear
+  
+  1x RotMit
+  
+  2x PivPotentio (圆形或方形)
+  
+  1x LeftRotTit
+  
+  1x RotWorm
+  
+  1x LeftRotcenter
+  
+  1x armtopcover1
+  
+  1x armtopcover2
+  
+  1x armtopcover3
+  
+  1x elbowshaftgear
+  
+  1x gearpotentio
+  
+  2x lowarmside
+  
+  2x reinforcer
+  
+  1x servobase
+  
+  1x servoholder
+  
+  1x spacer
 
 二头肌教程视频：https://youtu.be/aHVBU02EtxY
 
@@ -294,11 +294,11 @@ http://youtu.be/t1LBbmfRvOQ
 
 这些部件上没有支撑结构需要移除。但你需要切割部件之间的微小连接点才能将它们分开。切割刀片适用于 ABS 材料，如果使用 PLA 材料打印，则可能需要使用带齿的刀。
 
+![Bicep3](https://github.com/user-attachments/assets/199b4f9f-4860-4cfd-aed4-6603697dcc7e)
 
+将盖子粘在一起以匹配二头肌，如下图所示：
 
+![Bicep2](https://github.com/user-attachments/assets/e6e44854-b154-4970-b7be-99116b1dcaf1)
 
-
-
-
-
+通常情况下你应该已经设置好了。
 
