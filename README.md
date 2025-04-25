@@ -22,7 +22,7 @@
 
 1x RotMit
 
-2x PivPotentio (round or square)
+2x PivPotentio (圆形或方形)
 
 1x RotTit
 
@@ -64,7 +64,7 @@
 
 1x RotMit
 
-2x PivPotentio (round or square)
+2x PivPotentio (圆形或方形)
 
 1x LeftRotTit
 
